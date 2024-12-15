@@ -1,0 +1,9 @@
+{
+    "lender_name": "1\\.[ ]?Mutuante\\nNome:[ ]?([^\\n]+)",
+    "credit_amount": "empréstimo a conceder:[ ]?([^\\n]+)",
+    "loan_duration": "Duração do empréstimo:[ ]?([^\\n]+)",
+    "type_of_interest": "Tipo de taxa de juro:[ ]?([^\\n]+)",
+    "mtic" : "Montante total a reembolsar (MTIC):[ ]?([^\\n]+)",
+    "aprc": "A TAEG aplicável ao seu empréstimo é\\s*de: ([^\\n]+)",
+    "monthly_installment": "Montante da prestação inicial: ([^\\n]+)"
+}
